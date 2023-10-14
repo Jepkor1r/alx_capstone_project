@@ -47,7 +47,6 @@ For live demos and screenshots:
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
 
-![Flowchart](./ASSETS/IMAGES/Portfolio%20Website%20Flowchart.png)
 ![Flowchart](./ASSETS/IMAGES/Portfolio%20Flowchart.png)
 
 ## Roadmap and Future Enhancements:
