@@ -5,11 +5,11 @@
 - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Features and Functionality](#features-and-functionality)
-  - [Technologies](#technologies)
+  - [Technologies Used](#technologies-used)
   - [Screenshots or Demo](#screenshots-or-demo)
      - [Figma design](#figma-design)
      - [Flowchart](#flowchart)
-  - [Future enhancements](#future-enhancements)
+  - [Roadmap and Future enhancements](#roadmap-and-future-enhancements)
   - [Contact Information](#contact-information)
 
 ## Project Overview:
@@ -37,7 +37,10 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 
 ## Screenshots or Demo:
 
-For live demos and screenshots, please visit My Personal Portfolio Website (replace with your actual website URL).
+For live demos and screenshots:
+### Figma design
+
+### Flowchart
 
 ## Roadmap and Future Enhancements:
 
