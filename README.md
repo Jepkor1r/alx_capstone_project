@@ -18,21 +18,21 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 
 ## Features and Functionality:
 
-- Home Page: This section provides a brief introduction and welcomes visitors to the website.
+- **Home Page**: This section provides a brief introduction and welcomes visitors to the website.
 
-- About Me: In this section, you can learn more about my background, education, and professional experiences.
+- **About Me**: In this section, you can learn more about my background, education, and professional experiences.
 
-- Skills: Here, you can find a list of my key skills and competencies
+- **Skills**: Here, you can find a list of my key skills and competencies
 
-- Projects: Here, visitors can explore a collection of projects I've worked on. Each project comes with a description, images, and links to view the project or its source code.
+- **Projects**: Here, visitors can explore a collection of projects I've worked on. Each project comes with a description, images, and links to view the project or its source code.
 
-= Contact Information: This section provides various ways to get in touch with me, including a contact form, email address, and links to my social media profiles.
+- **Contact Information**: This section provides various ways to get in touch with me, including a contact form, email address, and links to my social media profiles.
 
 ## Technologies Used:
 
-- HTML/CSS: The website is built using HTML and CSS to create the structure and style.
+- **HTML/CSS**: The website is built using HTML and CSS to create the structure and style.
 
-- JavaScript: I've used JavaScript for interactivity, such as contact forms or dynamic content.
+- **JavaScript**: I've used JavaScript for interactivity, such as contact forms or dynamic content.
 
 
 ## Screenshots or Demo:
@@ -43,25 +43,25 @@ For live demos and screenshots, please visit My Personal Portfolio Website (repl
 
 In the future, I plan to enhance my personal portfolio website with the following:
 
-- Dynamic Content: Implement a content management system (CMS) to easily update projects, blog posts, and other content.
+- **Dynamic Content**: Implement a content management system (CMS) to easily update projects, blog posts, and other content.
 
-- Improved UI/UX: Continuously improve the user interface and user experience to make navigation and interaction smoother.
+- **Improved UI/UX**: Continuously improve the user interface and user experience to make navigation and interaction smoother.
 
-- SEO Optimization: Improve search engine optimization to increase visibility in search results.
+- **SEO Optimization**: Improve search engine optimization to increase visibility in search results.
 
-- Analytics: Integrate analytics tools to monitor website traffic and user behavior.
+- **Analytics**: Integrate analytics tools to monitor website traffic and user behavior.
 
-- Testimonials: Add a section for testimonials from previous clients or employers.
+- **Testimonials**: Add a section for testimonials from previous clients or employers.
  
 
 ## Contact Information:
 
 Feel free to get in touch with me:
 
-Name: [Jepkorir Lagat]
-Email: jlagat007@gmail.com
-LinkedIn: #
-GitHub: #
-Portfolio Website: #
+- **Author**: Jepkorir Lagat
+- **Email**: jlagat007@gmail.com
+- LinkedIn: #
+- GitHub: #
+- Portfolio Website: #
 
 I'm excited to connect and share more about my work and experiences.
