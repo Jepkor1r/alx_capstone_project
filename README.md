@@ -40,8 +40,12 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 ## Screenshots or Demo:
 
 For live demos and screenshots:
----
 ### Figma design
+Website prototype - Desktop layout
+![Figma](./ASSETS/IMAGES/DESKTOP.PNG)
+
+Website prototype - Mobile layout
+![Figma](./ASSETS/IMAGES/MOBILE.PNG)
 ---
 ### Flowchart
 
