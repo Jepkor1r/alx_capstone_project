@@ -41,7 +41,7 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 
 For live demos and screenshots:
 ### Figma design
-![Figma Prototype](https://www.figma.com/file/TMs8liLfK1tMTlpAKcr8vg/portfolio-website?type=design&node-id=0%3A1&mode=design&t=mNCzLidqdK9VFqMv-1)
+[Figma Prototype](https://www.figma.com/file/TMs8liLfK1tMTlpAKcr8vg/portfolio-website?type=design&node-id=0%3A1&mode=design&t=mNCzLidqdK9VFqMv-1)
 
 Website prototype - Desktop layout screenshoot<br>
 ![Figma](./ASSETS/IMAGES/DESKTOP.PNG)
