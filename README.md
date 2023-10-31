@@ -43,12 +43,6 @@ For live demos and screenshots:
 ### Figma design
 [Figma Prototype](https://www.figma.com/file/TMs8liLfK1tMTlpAKcr8vg/portfolio-website?type=design&node-id=0%3A1&mode=design&t=mNCzLidqdK9VFqMv-1)
 
-Website prototype - Desktop layout screenshoot<br>
-![Figma](./ASSETS/IMAGES/DESKTOP.PNG)
-
-Website prototype - Mobile layout screenshot<br>
-![Figma](./ASSETS/IMAGES/MOBILE.PNG)
-
 ---
 ### Flowchart
 
@@ -77,8 +71,8 @@ Feel free to get in touch with me:
 
 - **Author**: Jepkorir Lagat
 - **Email**: jlagat007@gmail.com
-- LinkedIn: #
-- GitHub: #
+- [Twitter](https://www.twitter.com/jepkor1r)
+- [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
 - Portfolio Website: #
 
 I'm excited to connect and share more about my work and experiences.
