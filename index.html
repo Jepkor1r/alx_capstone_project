@@ -258,7 +258,7 @@
                 <!-- Get In Touch -->
                 <div class="get-in-touch scroll-bottom">
                     <h2 class="sub-title">Get In Touch</h2>
-                    <form action="https://formsubmit.co/jlagat007@gmail.com" method="POST">
+                    <form id="contact-form" action="https://formsubmit.co/jlagat007@gmail.com" method="POST" onsubmit="resetForm()" >
                         <input type="text" name="Name" placeholder="Your Name" required>
                         <input type="email" name="Email" placeholder="Your Email" required>
                         <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
@@ -370,5 +370,17 @@
         scrollTop.forEach((el) => observer.observe(el));
     </script>
     
+    <script>
+        function resetForm() {
+            // Get the form element by its ID
+            const form = document.getElementById("contact-form");
+
+            // Reset the form to clear input fields
+            form.reset();
+
+           // Prevent the form from being submitted to the server
+            return false;
+        }
+    </script>
 </body>
 </html>
