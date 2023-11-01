@@ -330,35 +330,45 @@
 
         let sidemenu = document.getElementById("sidemenu");
 
+        // Function to open the side menu.
         function openmenu() {
-            sidemenu.style.right = "0";
+            sidemenu.style.right = "0"; // Set the right CSS property of the "sidemenu" element to "0," making it visible.
         }
 
+         // Function to close the side menu.
         function closemenu() {
-            sidemenu.style.right = "-200px";
+            sidemenu.style.right = "-200px"; // Set the right CSS property of the "sidemenu" element to "-200px," hiding it.
         }
     </script>
 
     <script>
+        // Create an IntersectionObserver object, which is used to check if an element is in the viewport.
         const observer = new IntersectionObserver((entries) => {
             entries.forEach((entry) => {
+                // Check if the element is currently intersecting with the viewport.
                 if(entry.isIntersecting) {
+                    // If it's intersecting, add the "show-items" class to the element, which makes it visible.
                     entry.target.classList.add("show-items");
                 }
                 else {
+                    // If it's not intersecting, remove the "show-items" class to hide it.
                     entry.target.classList.remove("show-items");
                 }
             });
         });
 
+        // Select all elements with the class "scroll-scale" and observe them using the IntersectionObserver.
         const scrollScale = document.querySelectorAll(".scroll-scale");
         scrollScale.forEach((el) => observer.observe(el));
 
+        // Select all elements with the class "scroll-bottom" and observe them using the IntersectionObserver.
         const scrollBottom = document.querySelectorAll(".scroll-bottom");
         scrollBottom.forEach((el) => observer.observe(el));
 
+        // Select all elements with the class "scroll-top" and observe them using the IntersectionObserver.
         const scrollTop = document.querySelectorAll(".scroll-top");
         scrollTop.forEach((el) => observer.observe(el));
     </script>
+    
 </body>
 </html>
