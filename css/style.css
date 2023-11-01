@@ -1,9 +1,10 @@
 /* Font definition*/
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
 
+/* Scrollbar styling*/
 ::-webkit-scrollbar {
     height: 0;
-    width: .5rem;
+    width: 0.5rem;
 
 }
 
@@ -102,7 +103,6 @@ nav ul li a:hover::after {
 
 .header-title h2{
     font-weight: 800;
-    /*color: #AC0DAC;*/
     font-size: 60px;
 }
 .header-title h1 {
