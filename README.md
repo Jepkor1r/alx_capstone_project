@@ -76,6 +76,6 @@ Feel free to get in touch with me:
 - **Email**: jlagat007@gmail.com
 - [Twitter](https://www.twitter.com/jepkor1r)
 - [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
-- Portfolio Website:  <a href="https://Jepkor1r.github.io/alx_capstone_project/"> click here</a> for a preview!
+- Portfolio Website:<a href="https://jepkor1r.github.io/"> click here</a> for a preview!
 
 I'm excited to connect and share more about my work and experiences.
