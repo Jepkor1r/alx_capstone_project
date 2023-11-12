@@ -74,8 +74,7 @@ Feel free to get in touch with me:
 
 - **Author**: Jepkorir Lagat
 - **Email**: jlagat007@gmail.com
-- [Twitter](https://www.twitter.com/jepkor1r)
-- [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
-- Portfolio Website:<a href="https://jepkor1r.github.io/"> click here</a> for a preview!
+- <a href="https://jepkor1r.github.io/"> Portfolio Website </a> 
+- [Twitter](https://www.twitter.com/jepkor1r) | [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
 
 I'm excited to connect and share more about my work and experiences.
