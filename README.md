@@ -8,7 +8,7 @@
   - [Technologies Used](#technologies-used)
   - [Screenshots or Demo](#screenshots-or-demo)
      - [Figma design](#figma-design)
-     -[Live Demo](#live-demo)
+     - [Live Demo](#live-demo)
      - [Flowchart](#flowchart)
   - [Roadmap and Future enhancements](#roadmap-and-future-enhancements)
   - [Contact Information](#contact-information)
