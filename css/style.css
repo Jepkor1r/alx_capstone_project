@@ -115,7 +115,7 @@ nav ul li a:hover::after {
     margin-top: 100px;
     border-radius: 50px;
     text-align: center;
-    box-shadow: 2px 2px 5px rgba(182, 45, 170, 0.952); 
+    box-shadow: 4px 4px 10px rgba(182, 45, 170, 0.952); 
 
 }
 .header-title i{
