@@ -124,14 +124,6 @@ nav ul li a:hover::after {
     color: #000000;
 }
 
-.header-title h1 {
-    font-size: 30px;
-    margin-top: 80px;
-    padding: 35px;
-    background-color: #AC0DAC;
-    border-radius: 8cqi;
-}
-
 .header-title h2 span {
     color: #ffffff;
 }
@@ -611,12 +603,6 @@ nav .fa-solid{
         font-size: 30px;
     }
 
-    .header-title h1 {
-        font-size: 15px;
-        margin-top: 30px;
-        padding: 10px;
-        
-    }
     
     nav .fa-solid{
         display: block;
