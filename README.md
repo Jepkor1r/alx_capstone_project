@@ -1,4 +1,5 @@
 # PERSONAL PORTFOLIO WEBSITE
+![Alt text](ASSETS/IMAGES/homepage.PNG)
 
 ## Table of Contents
 
