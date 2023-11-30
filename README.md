@@ -1,5 +1,9 @@
 # PERSONAL PORTFOLIO WEBSITE
 ![Alt text](ASSETS/IMAGES/homepage.PNG)
+![Alt text](ASSETS/IMAGES/aboutme.PNG)
+![Alt text](ASSETS/IMAGES/skills.PNG)
+![Alt text](ASSETS/IMAGES/projects.PNG)
+![Alt text](ASSETS/IMAGES/contacts.PNG)
 
 ## Table of Contents
 
