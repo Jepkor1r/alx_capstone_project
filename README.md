@@ -47,11 +47,11 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 
 For live demos and screenshots:
 ### Figma design
-[Figma Prototype]
 
 ---
 ### Live Demo
-[Video Demo ]
+
+---
 ### Flowchart
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
