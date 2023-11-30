@@ -111,9 +111,9 @@ nav ul li a:hover::after {
     font-weight: 800;
     font-size: 30px;
     background-color: #ffffff;
-    padding: 40px;
+    padding: 30px;
     margin-top: 100px;
-    border-radius: 50px;
+    border-radius: 15px 70px;
     text-align: center;
     box-shadow: 4px 4px 10px rgba(182, 45, 170, 0.952); 
 
@@ -561,6 +561,7 @@ footer a {
 
 /*===================================================== End Of Footer Section =======================================*/
 
+/* Scroll to Top arrow*/
 .scroll-to-top {
     display: none;
     position: fixed;
@@ -689,6 +690,13 @@ nav .fa-solid{
 
     .get-in-touch, .contact-me {
         flex-basis: 100%;
+    }
+
+    .scroll-to-top {
+        color: #AC0DAC;
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
     }
 
 }
