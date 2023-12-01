@@ -118,8 +118,9 @@ nav ul li a:hover::after {
     text-align: center;
     box-shadow: 8px 8px 14px rgba(252, 251, 252, 0.952); 
     opacity: 0.8;
-
+ 
 }
+
 .header-title i{
     color: #000000;
 }
@@ -582,7 +583,7 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 768px){
     #header{
         background-image: url(../ASSETS/IMAGES/smallbackground-image.jpg);
     }
@@ -592,15 +593,23 @@ nav .fa-solid{
     }
 
     .header-title {
-        /*margin-top: 100%;*/
+      
         font-size: 16px;
         align-items: center;
+      
     }
 
     .header-title h2{
-        margin-top: 80px;
-        padding: 55px;
-        font-size: 30px;
+       
+        font-size: 5vh; 
+        padding: 1.8em; 
+        margin-top: 15vh; 
+        margin-left: 5%; 
+        border-radius: 0.1em 6em;
+        max-height: 500px;
+        height: 100%;
+        overflow: hidden;
+       
     }
 
     
@@ -687,6 +696,21 @@ nav .fa-solid{
         font-size: 30px;
     }
 
+}
+
+@media only screen and (min-width: 769px) {
+    .header-title h2{
+       
+        font-size: 5vh; 
+        padding: 1.8em; 
+        margin-top: 15vh; 
+        margin-left: 5%; 
+        border-radius: 0.1em 6em;
+        max-height: 500px;
+        height: 100%;
+        
+       
+    } 
 }
 
 
