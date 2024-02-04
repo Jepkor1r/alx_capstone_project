@@ -74,7 +74,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #AC0DAC;
+    color: #B70CF7;
     font-size: 18px;
     font-weight: bold;
     position: relative;
@@ -140,7 +140,7 @@ nav ul li a:hover::after {
 
 #about {
     padding: 40px 0;
-    background-color: #AC0DAC;
+    background-color: #B70CF7;
     color: #ffffff;
 }
 
@@ -277,7 +277,7 @@ nav ul li a:hover::after {
     height: 100%;
     position: absolute;
     left: 0;
-    background: #AC0DAC;
+    background: #B70CF7;
     border-radius: 25px;
     box-shadow: #2A3431;
 }
@@ -331,7 +331,7 @@ nav ul li a:hover::after {
 
 #project {
     padding: 50px 0;
-    background-color: #AC0DAC;
+    background-color: #B70CF7;
 }
 
 .project-title{
@@ -537,7 +537,7 @@ form .button2 {
 #footer {
     padding: 10px 10%;
     margin: 0 auto;
-    background-color: #AC0DAC;
+    background-color: #B70CF7;
     display: flex;
     justify-content: center;
     align-items: center;
