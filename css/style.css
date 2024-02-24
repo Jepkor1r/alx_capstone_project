@@ -110,7 +110,7 @@ nav ul li a:hover::after {
 .header-title h2{
     font-weight: 800;
     font-size: 30px;
-    background-color: #AC0DAC;
+    background-color: #B70CF7;
     padding: 80px;
     margin-top: 100px;
     margin-left: 1px;
@@ -196,7 +196,7 @@ nav ul li a:hover::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #bb50b6;
+    background: #ffffff;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -237,7 +237,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#B70CF7;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -367,7 +367,7 @@ nav ul li a:hover::after {
 .layer {
     width: 100%;
     height: 0%;
-    background: linear-gradient(rgb(31, 30, 30), #AC0DAC);
+    background: linear-gradient(rgb(31, 30, 30), #B70CF7);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -396,7 +396,7 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
-    background-color: #AC0DAC;
+    background-color: #B70CF7;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -415,7 +415,7 @@ nav ul li a:hover::after {
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #c01dc0;
+    border: 1px solid #bc7cd3;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -424,7 +424,7 @@ nav ul li a:hover::after {
 }
 
 .button:hover {
-    background: #AC0DAC;
+    background: #000000;
 }
 /*===================================================== End of Projects Section =====================================*/
 
@@ -439,7 +439,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#B70CF7;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -471,7 +471,7 @@ nav ul li a:hover::after {
 
 form input, form textarea {
     width: 100%;
-    border-color: #AC0DAC;
+    border-color: #B70CF7;
     padding: 15px;
     margin: 15px 0;
     color: #000000;
@@ -483,7 +483,7 @@ form input, form textarea {
 
 .button.button2 {
     display: inline-block;
-    background: #AC0DAC;
+    background: #B70CF7;
     color: #ffffff;
 }
 
@@ -507,7 +507,7 @@ form .button2 {
 
 
 .contact-me p i{
-    color: #AC0DAC;
+    color: #B70CF7;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -521,7 +521,7 @@ form .button2 {
     text-decoration: none;
     font-size: 3opx;
     margin-right: 15px;
-    color: #AC0DAC;
+    color: #B70CF7;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -620,7 +620,7 @@ nav .fa-solid{
     }
     
     nav ul {
-        background: #AC0DAC;
+        background: #B70CF7;
         position: fixed;
         top: 0;
         right: -200px;
@@ -821,6 +821,6 @@ nav .fa-solid{
         box-shadow: none;
     }
     100% {
-        background: #AC0DAC;
+        background: #B70CF7;
     }
 }
